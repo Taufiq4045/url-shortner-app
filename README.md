@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+To shorten your URL hit [here](https://url-shortner-at.netlify.app).
+
+## Use the username/email: taufiq4045@gmail.com and password: Useraccess1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
