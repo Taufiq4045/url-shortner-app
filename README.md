@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To shorten your URL hit [here](https://url-shortner-at.netlify.app).
+To shorten your URL hit [here](https://url-shortner-free.herokuapp.com).
 
 ## Use the username/email: taufiq4045@gmail.com and password: Useraccess1
 
